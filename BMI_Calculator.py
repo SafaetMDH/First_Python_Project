@@ -11,3 +11,5 @@ bmi = int(weight) / float(height)**2
 int_BMI = int(bmi)
 
 print(int_BMI)
+
+## this is a practice session ##
